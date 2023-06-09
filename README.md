@@ -1,7 +1,7 @@
 # File-Compression-System
 This is a simple repo that contains the implementation of the popular file compression algorithms
 
-This repository contains the implementation of the following compression algorithms:
+It contains the implementation of the following compression algorithms:
 1. Run Length encoding
 2. Huffman encoding
 3. Lempel Ziv 
